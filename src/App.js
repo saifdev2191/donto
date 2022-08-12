@@ -10,6 +10,7 @@ import Blog from './Components/Page/Blog';
 import Contact from './Components/Page/Contact';
 import Team from './Components/Page/Team';
 import BlogDetails from './Components/Page/BlogDetails';
+import DentalImplant from "./Components/Page/DentalImplant"
 import FooterData from './Components/Data/FooterData';
 import './App.css';
 
@@ -32,6 +33,7 @@ function App() {
         <Route path='/Page/Blog' component={Blog} />
         <Route path='/Page/Team' component={Team} />
         <Route path='/Page/Contact' component={Contact} />
+        <Route path='/Page/DentalImplants' component={DentalImplant} />
 
 		    <FooterOne FooterData={FooterData} />
       </Router>

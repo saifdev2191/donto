@@ -3,9 +3,9 @@ const ServiceData = {
         {
             id: 1,
             imgUrl: "dentistry.svg",
-            title: "Complete Dentistry",
+            title: "Dental implants",
             text: "Lorem Ipsum is simply dummy text of the printings and type and setting for content",
-            link: ".#",
+            link: "/Page/DentalImplants",
         },
         {
             id: 2,

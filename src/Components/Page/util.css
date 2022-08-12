@@ -1,0 +1,12 @@
+.dental-implant-ul {
+  text-justify: inter-word;
+  text-align: justify;
+}
+
+.dental-implant-ul li {
+  list-style: disc;
+}
+
+.container-dental-implant {
+  max-width: 1200px !important;
+}
